@@ -1,2 +1,5 @@
-print('Hello World');
-alert('Welcome back!');
+clickHere.addEventListener('click', function(){
+    clickHere.innerHTML = "Hi there!"
+
+})
+
